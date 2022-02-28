@@ -30,4 +30,6 @@ Imports:
     methods
 URL: https://github.com/data-cleaning/dcmodifydb
 BugReports: https://github.com/data-cleaning/dcmodifydb/issues
+Depends:
+  R (>= 4.0.0)
 VignetteBuilder: knitr
